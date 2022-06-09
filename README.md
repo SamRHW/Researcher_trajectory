@@ -1,5 +1,8 @@
 # Researcher_trajectory
-This code is to analyse the trajectory of a researcher based on the data publicly available in google scholar
+This code is to analyse the trajectory of a researcher based on the data publicly available in Google Scholar.
+
+For the Python notebook I used Google Colab and for the network initially I used networkx library to draw the network and later downloaded the .gefx file to make further modifications in Gephy.
+
 ## Dependencies
 1. Scholarly
 2. ProxyGenerator
